@@ -9,108 +9,84 @@
   </a>
 </p>
 
-## 👋 Olá! Eu sou o Vinicius Barros
+# 👋 Vinicius Barros
 
-💻 Desenvolvedor Web com experiência em **criação de sites, landing pages e soluções digitais focadas em performance, SEO e conversão**.
+🚀 Desenvolvedor focado em **Node.js e desenvolvimento de APIs**.
 
-Atuo em **agências digitais desenvolvendo projetos completos**, desde interfaces responsivas até integrações e automações de sistemas.
+Tenho experiência profissional construindo soluções web para agências digitais, trabalhando com **performance, integrações de sistemas e automação de processos**.
 
-Atualmente estou expandindo minha atuação para o **Back-end com Node.js e NestJS**, focando em arquitetura de software, APIs robustas e boas práticas de desenvolvimento.
-
-🎯 Meu objetivo é atuar como **Desenvolvedor Full Stack**, unindo experiência prática em Front-end, WordPress e marketing digital com desenvolvimento Back-end escalável.
+Hoje meu foco é evoluir cada vez mais em **Backend com Node.js**, aplicando boas práticas de arquitetura, APIs escaláveis e integrações robustas.
 
 ---
 
-# 🚀 Experiência Profissional
-
-### Desenvolvedor Web  
-**Melt Comunicação**  
-📍 Belo Horizonte – MG  
-📅 06/2022 – Atual
-
-Principais atividades:
-
-- Desenvolvimento de **sites e landing pages de alta conversão**
-- Criação de **interfaces responsivas com foco em UX**
-- **Otimização de performance (WPO)** usando métricas do Google Lighthouse e Core Web Vitals
-- Implementação de **SEO técnico e Search Console**
-- **Tagueamento avançado (Google Tag Manager / GA4)**
-- Integração com **CRMs e APIs para automação de leads**
-- Participação em reuniões com clientes para levantamento de requisitos e soluções técnicas
-
----
-
-### Estagiário de Desenvolvimento Web  
-**Melt Comunicação**  
-📅 03/2022 – 06/2022
-
-- Manutenção e desenvolvimento de sites WordPress
-- Correções de bugs
-- Otimização de layout responsivo
-
----
-
-### Analista de Sistemas  
-**Softcom Tecnologia**  
-📅 10/2021 – 03/2022
-
-- Instalação e configuração de softwares remotamente
-- Suporte técnico e Help Desk
-- Treinamento de usuários e resolução de incidentes
-
----
-
-# 🧠 Skills / Tecnologias
-
-## Front-end & CMS
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40"/>
-</p>
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- WordPress Custom
-- UI/UX Responsivo
-
----
-
-## Back-end (Foco Atual)
+# 🧠 Tecnologias Principais
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
 - Node.js
 - NestJS
-- APIs RESTful
+- APIs REST
 - Integração de sistemas
-- Arquitetura de software
+- Automação de processos
 - Clean Code
 
 ---
 
-## Dados, SEO & Marketing
+# 💻 Experiência com Desenvolvimento Web
 
-- SEO Técnico
-- Google Search Console
-- Google Tag Manager
-- Google Analytics (GA4)
-- Otimização para campanhas de Ads
-- Automação de processos
-- Integrações com CRM
+Antes de focar totalmente em backend, trabalhei por anos desenvolvendo soluções web completas.
+
+Isso me deu experiência prática com:
+
+- Desenvolvimento de **sites e landing pages**
+- **Otimização de performance (Core Web Vitals)**
+- **Integração de APIs e CRMs**
+- **Tagueamento e análise de dados (GTM / GA4)**
+- **SEO técnico e otimização de sites**
+
+Essa experiência hoje ajuda muito no desenvolvimento backend voltado para **produtos reais e escaláveis**.
+
+---
+
+# 💼 Experiência Profissional
+
+### Desenvolvedor Web  
+**Melt Comunicação**  
+2022 – Atual
+
+- Desenvolvimento de sites e landing pages focadas em conversão
+- Otimização de performance e Core Web Vitals
+- Integração com APIs e sistemas externos
+- Implementação de SEO técnico
+- Automação de dados e integração com CRM
+
+---
+
+### Estagiário de Desenvolvimento Web  
+**Melt Comunicação**
+
+- Suporte no desenvolvimento e manutenção de sites WordPress
+- Correção de bugs e melhorias de layout
+
+---
+
+### Analista de Sistemas  
+**Softcom Tecnologia**
+
+- Instalação e configuração de softwares
+- Suporte técnico e treinamento de usuários
 
 ---
 
 # 🎓 Formação
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
-Centro Universitário Newton Paiva  
-2019 – 2022
+Análise e Desenvolvimento de Sistemas  
+Centro Universitário Newton Paiva
 
 ---
 
@@ -123,9 +99,5 @@ Centro Universitário Newton Paiva
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-barros/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/vini15080">
-    <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
