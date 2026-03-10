@@ -9,49 +9,112 @@
   </a>
 </p>
 
-## Opa! Eu sou o Vinicius Barros 👋
+## 👋 Olá! Eu sou o Vinicius Barros
 
-### Sobre mim
+💻 Desenvolvedor Web com experiência em **criação de sites, landing pages e soluções digitais focadas em performance, SEO e conversão**.
 
-- 💻 Sou Desenvolvedor Web com +4 anos de experiência criando sites, landing pages e soluções personalizadas com foco em performance, SEO e experiência do usuário.  
-- 🚀 Atualmente estou em transição de carreira e mergulhando de cabeça no desenvolvimento Backend com **Java** e **Spring Boot**.  
-- 💼 Já atuei em diversos projetos com:  
-  🔹 WordPress personalizado (sem depender de plugins pesados)  
-  🔹 Criação de sites responsivos com HTML, CSS e JavaScript  
-  🔹 Integração de APIs e automação de processos  
-  🔹 Tagueamento de sites (Google Analytics, GTM)  
-  🔹 SEO técnico e relatórios de performance  
+Atuo em **agências digitais desenvolvendo projetos completos**, desde interfaces responsivas até integrações e automações de sistemas.
 
-- 📚 Hoje meus estudos estão focados em:  
-  ☕ Java  
-  🌱 Spring Boot  
-  🔗 APIs RESTful  
-  🧪 Testes Automatizados  
-  🧹 Clean Code & SOLID  
-  🏗️ Arquitetura de Software  
+Atualmente estou expandindo minha atuação para o **Back-end com Node.js e NestJS**, focando em arquitetura de software, APIs robustas e boas práticas de desenvolvimento.
 
-- 🎯 Meu objetivo é unir toda essa bagagem prática de Front-end & WordPress com o desenvolvimento Backend — entregando soluções completas, performáticas e de alto nível.  
-- 💬 Vamos trocar ideia sobre código, backend, carreira ou projetos? Gosto de compartilhar o que aprendo e aprender com a galera dev!
+🎯 Meu objetivo é atuar como **Desenvolvedor Full Stack**, unindo experiência prática em Front-end, WordPress e marketing digital com desenvolvimento Back-end escalável.
 
 ---
 
-## Skills / Conhecimentos Técnicos 🤓
+# 🚀 Experiência Profissional
 
+### Desenvolvedor Web  
+**Melt Comunicação**  
+📍 Belo Horizonte – MG  
+📅 06/2022 – Atual
+
+Principais atividades:
+
+- Desenvolvimento de **sites e landing pages de alta conversão**
+- Criação de **interfaces responsivas com foco em UX**
+- **Otimização de performance (WPO)** usando métricas do Google Lighthouse e Core Web Vitals
+- Implementação de **SEO técnico e Search Console**
+- **Tagueamento avançado (Google Tag Manager / GA4)**
+- Integração com **CRMs e APIs para automação de leads**
+- Participação em reuniões com clientes para levantamento de requisitos e soluções técnicas
+
+---
+
+### Estagiário de Desenvolvimento Web  
+**Melt Comunicação**  
+📅 03/2022 – 06/2022
+
+- Manutenção e desenvolvimento de sites WordPress
+- Correções de bugs
+- Otimização de layout responsivo
+
+---
+
+### Analista de Sistemas  
+**Softcom Tecnologia**  
+📅 10/2021 – 03/2022
+
+- Instalação e configuração de softwares remotamente
+- Suporte técnico e Help Desk
+- Treinamento de usuários e resolução de incidentes
+
+---
+
+# 🧠 Skills / Tecnologias
+
+## Front-end & CMS
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin: 10 30px;" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" style="margin: 10 30px;" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="margin: 10 30px;" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin: 10 30px;" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin: 10 30px;" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin: 10 30px;" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" style="margin: 10 30px;" title="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin: 10 30px;" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" style="margin: 10 30px;" title="JUnit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40"/>
 </p>
 
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- WordPress Custom
+- UI/UX Responsivo
+
 ---
 
-## Contato 📱
+## Back-end (Foco Atual)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40"/>
+</p>
+
+- Node.js
+- NestJS
+- APIs RESTful
+- Integração de sistemas
+- Arquitetura de software
+- Clean Code
+
+---
+
+## Dados, SEO & Marketing
+
+- SEO Técnico
+- Google Search Console
+- Google Tag Manager
+- Google Analytics (GA4)
+- Otimização para campanhas de Ads
+- Automação de processos
+- Integrações com CRM
+
+---
+
+# 🎓 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas**  
+Centro Universitário Newton Paiva  
+2019 – 2022
+
+---
+
+# 📫 Contato
 
 <p align="center">
   <a href="mailto:viniciusbarrosmg@gmail.com">
